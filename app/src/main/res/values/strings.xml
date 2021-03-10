@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitternityTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">home blank fragment</string>
+    <string name="your_location">Your Location</string>
+    <string name="ok">OK</string>
+</resources>
